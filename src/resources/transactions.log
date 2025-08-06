@@ -1,0 +1,14 @@
+[2025-08-06T10:15:22.134] ATM Machine Started - Accounts Loaded
+[2025-08-06T10:16:05.215] Yashas withdrew: 2000
+[2025-08-06T10:17:45.540] Yashas deposited: 5000
+[2025-08-06T10:18:10.892] Yashas changed PIN
+[2025-08-06T10:19:32.321] Akshay checked balance: 55000.0
+[2025-08-06T10:20:05.143] Operator 1 reset PIN attempts for user 222222221
+[2025-08-06T10:20:50.478] Operator 1 switched off ATM machine
+[2025-08-06T10:20:55.002] ATM Machine Shut Down
+[2025-08-06T10:51:23.079824200] ATM Machine Started - Accounts Loaded
+[2025-08-06T10:52:10.037599700] Yashas deposited: 2000.0
+[2025-08-06T10:52:23.863955100] Yashas checked balance: 52000.0
+[2025-08-06T10:52:35.083911100] Yashas checked balance: 52000.0
+[2025-08-06T10:53:04.014009900] Yashas deposited: 3000.0
+[2025-08-06T10:53:07.537515200] Yashas checked balance: 55000.0
